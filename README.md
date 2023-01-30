@@ -12,4 +12,4 @@
 
 Practicing more advanced notions of Laravel (blade with if, for, while, foreach, include, yield).
 
-Recreate a page routing from La Molisana pastas.
+Recreate a page routing based on La Molisana site.
